@@ -57,7 +57,7 @@ Smart Code Reviewer is designed to provide a **local AI-powered code review syst
 3. **subprocess** – Run external commands for Java, C, and JavaScript analysis
 
 - **Node.js / JavaScript Tools:**
-1. **eslint – JavaScript static code analysis and linting**
+1. **eslint** – JavaScript static code analysis and linting
 
 - **Compilers:**
 1. **javac** – Java compiler
